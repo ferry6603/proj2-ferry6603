@@ -1,0 +1,15 @@
+{
+    "name": "comp30023-p2",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                // "rust-lang.rust-analyzer",
+                "ms-vscode.cpptools-extension-pack",
+                "EditorConfig.EditorConfig"
+            ]
+        }
+    }
+}

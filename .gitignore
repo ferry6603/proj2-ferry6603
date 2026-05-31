@@ -1,0 +1,11 @@
+*.o
+*.a
+client
+server
+target/
+
+# Local test helper (optional — not required for CI)
+# run_tests.sh kept in repo for convenience
+
+# Binaries copied locally for dev; CI injects its own
+project2-bin/*.a

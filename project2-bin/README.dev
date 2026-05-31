@@ -1,0 +1,2 @@
+Initialize with: git submodule update --init project2-bin
+CI provides libengine.a and librunner.a at build time.
